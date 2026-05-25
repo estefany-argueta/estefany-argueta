@@ -12,14 +12,14 @@ Some of my best science happens outdoors—wet gear, salty notebooks, and early 
 ---
 
 ## Research projects
-### 1) Temperature-dependent sex determination + maternal effects (Brazilian green sea turtles)
-**Question:** How do warming nest temperatures shift sex ratios and long-term population dynamics?
-**Approach:** maternal effects, kinship/genetics, field monitoring, thermal ecology  
+### 1) Mating Behaviors as Buffers for Climate Impacts in Sea Turtle Populations
+**Question:** Can male behaviors compensate for potentially increasing male scarcity?
+**Approach:** kinship/genetics, field monitoring, sexual selection
 **Why it matters:** sex ratio skew is one of the clearest climate signals—and it can reshape populations quickly.
 
 ### 2) Cold tolerance in range-expanding black sea bass
 **Question:** Are northern-edge populations genetically adapting to cold, or relying on plasticity?
-**Approach:** experimental physiology, long-term field data, population genetics  
+**Approach:** experimental physiology, field collections, biological hierarchy  
 **Why it matters:** range shifts are happening now—mechanisms determine who persists during extremes.
 
 ---
