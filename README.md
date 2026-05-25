@@ -14,7 +14,7 @@ Some of my best science happens outdoors—wet gear, salty notebooks, and early 
 ## Research projects
 ### 1) Mating Behaviors as Buffers for Climate Impacts in Sea Turtle Populations
 **Question:** Can male behaviors compensate for potentially increasing male scarcity?
-**Approach:** kinship/genetics, field monitoring, sexual selection
+**Approach:** kinship/genetics, field monitoring, sexual selection 
 **Why it matters:** sex ratio skew is one of the clearest climate signals—and it can reshape populations quickly.
 
 ### 2) Cold tolerance in range-expanding black sea bass
