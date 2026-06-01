@@ -1,6 +1,6 @@
 # Hi, I’m Estefany Argueta Herrera
 
-I’m a physiological ecologist studying **thermal adaptation in marine ectotherms under climate change**. I combine **experimental physiology, field ecology, and genetics** to build mechanistic predictions about which populations persist as oceans warm.
+I’m a molecular ecologist studying **thermal adaptation in marine ectotherms under climate change**. I combine **experimental physiology, field ecology, and genetics** to build mechanistic predictions about which populations persist as oceans warm.
 
 **Currently:** PhD candidate at the University of Massachusetts Amherst.
 
