@@ -41,7 +41,7 @@ I care about clear communication, reproducible science, and collaborative work t
 - Google Scholar: Estefany Argueta[https://scholar.google.com/citations?user=Asvvy_gAAAAJ&hl=en]
 - ORCID: 0009-0002-0790-3256[https://orcid.org/0009-0002-0790-3256]
 - CV: [link to PDF]
-- Website: [<https://github.com/estefany-argueta>](https://estefany-argueta.github.io/ArguetaEstefany/index.html)
+- Website: [https://estefany-argueta.github.io/ArguetaEstefany/index.html]
 
 ---
 
